@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bgutility",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rayapudicb/BgUtility.git",
+      "state" : {
+        "revision" : "e934b96ef8b476dcab3b74cf2b4cd0d1ffca4696",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
